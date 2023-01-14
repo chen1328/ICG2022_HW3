@@ -1,15 +1,15 @@
 # ICG2022_HW3
 OBJ Loader  
 
-OBJ Files dialog  
+## OBJ files dialog  
 
 ![image](https://user-images.githubusercontent.com/122606885/212467842-e5e615fc-5148-4b2d-9a91-6ceb6796355c.png)  
 
-Skybox texture files dialog  
+## Skybox texture files dialog  
 
 ![image](https://user-images.githubusercontent.com/122606885/212467848-becf17dc-b071-44c1-a996-6613d46c52b5.png)  
 
-OBJ models  
+## OBJ models  
 
 ![image](https://user-images.githubusercontent.com/122606885/212467875-fe937133-d810-4e07-bee3-e4ce168932f6.png)  
 
