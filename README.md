@@ -1,7 +1,4 @@
 # ICG2022_HW3
-<<<<<<< HEAD
-OBJ Loader
-=======
 OBJ Loader  
 
 ## OBJ files dialog  
