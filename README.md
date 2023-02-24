@@ -18,4 +18,3 @@ OBJ Loader
 ![image](https://user-images.githubusercontent.com/122606885/212467885-76d4e9f9-cb0b-4a00-ab54-040851921594.png)  
 
 ![image](https://user-images.githubusercontent.com/122606885/212467893-ae81645f-a14c-4609-980b-6d8bee0a8fe8.png)
->>>>>>> e0177f89d3a4803c847f7cd78d4ee01d1570c180
